@@ -7,9 +7,8 @@ I'm Christine, a tech enthusiast with passion for building.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| SQL       |
-|     3| Kotlin    |
-|     4| C         |
+|     2| Kotlin    |
+|     3| C         |
 
 </details>
 
