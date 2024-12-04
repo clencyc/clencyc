@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I can write a bit of chinese**
 
+[![](https://visitcount.itsvg.in/api?id=clencyc&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/christine_12_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christine_12_me" height="30" width="40" /></a>
