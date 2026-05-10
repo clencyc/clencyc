@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clencyc" alt="clencyc" /></a> </p>
 
-- 🔭 I’m currently working on **Procureguard AI**
+- 🔭 I’m currently working on **Bunifu Capital**
 
-- 🌱 I’m currently learning **AI programming with python in AWS**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Web and Mobile development projects**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Kotlin, Django, Python**
 
-- 📫 How to reach me **clency2023@gmail.com**
+- 📫 How to reach me **christineoyiera51@gmail.com**
 
 - ⚡ Fun fact **I can write a bit of chinese**
 
