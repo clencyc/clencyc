@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clencyc" alt="clencyc" /></a> </p>
 
-- 🔭 I’m currently working on **Bunifu Capital**
+- 🔭 I’m currently working on **Korva Ventures**
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Web and Mobile development projects**
+- 👯 I’m looking to collaborate on **Backend and Mobile development projects**
 
 - 📝 I regularly write articles on [https://medium.com/@clency2023](https://medium.com/@clency2023)
 
-- 💬 Ask me about **Kotlin, Django, Python**
+- 💬 Ask me about **Kotlin, Django, Python, Open Source**
 
 - 📫 How to reach me **christineoyiera51@gmail.com**
 
-- ⚡ Fun fact **I can write a bit of chinese**
+- ⚡ Fun fact **I write Poetry**
 
 [![](https://visitcount.itsvg.in/api?id=clencyc&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
